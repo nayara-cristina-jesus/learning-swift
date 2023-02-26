@@ -14,7 +14,7 @@ print("Hello, World!")
 
 **Swift is a high-level general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community. First released in 2014, Swift was developed as a replacement for Apple's earlier programming language Objective-C, as Objective-C had been largely unchanged since the early 1980s and lacked modern language features.**
 
-- Paradigm: `protocol-oriented`, `object-oriented` `functional` `imperative` `block structured` `declarative` `concurrent`
+- Paradigm: `protocol-oriented` `object-oriented` `functional` `imperative` `block structured` `declarative` `concurrent`
 - Designed by:	Chris Lattner, Doug Gregor, John McCall, Ted Kremenek, Joe Groff, and Apple Inc.
 - First appeared: June 2, 2014
 
