@@ -26,7 +26,7 @@ https://docs.swift.org/swift-book/documentation/
 ## Used IDE 
 - `Replit`
 
-## Used Code editor
+## Used code editor
 - `Notepad++`
 
 ## Research source 
