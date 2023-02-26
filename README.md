@@ -1,4 +1,6 @@
-# Coding scripts in Swift
+# Mobile Application Development
+### :books: Learning Swift...
+<br>
 
  <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="python" width="40" height="40"/>
