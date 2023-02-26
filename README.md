@@ -21,7 +21,7 @@ print("Hello, World!")
 `protocol-oriented` `object-oriented` `functional` `imperative` `block structured` `declarative` `concurrent`
 
 ## Official documentation
-https://docs.swift.org/swift-book/documentation/
+https://www.swift.org/documentation/
 
 ## Used IDE 
 - `Replit`
