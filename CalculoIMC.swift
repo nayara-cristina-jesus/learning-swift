@@ -29,7 +29,7 @@ if let altura = readLine() {
 
 imc = peso / (altura * altura);
       
-if (imc < 18.6) {
+if (imc < 18.5) {
   classificacao += "Magreza";
 } else if (imc < 25.0) {
   classificacao += "Peso ideal";
