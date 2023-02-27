@@ -1,6 +1,16 @@
-// Cálculo do IMC
+/* ------------------------------------  
+IMC = peso/altura² - Classificação
+---------------------------------------  
+menor que 18,5 - Magreza
+de 18,5 a 24,9 - Peso normal
+de 25,0 a 29,9 - Sobrepeso
+de 30,0 a 34,9 - Obesidade grau I
+de 35,0 a 40,0 - Obesidade grau II
+maior que 40,0 - Obesidade grau III */
 
 // Código com ajustes a serem feitos...
+
+print("Calculo do IMC")
 
 var peso = 0.0;
 var altura = 0.0;
@@ -20,11 +30,11 @@ if let altura = readLine() {
 imc = peso / (altura * altura);
       
 if (imc < 18.6) {
-  classificacao += "Abaixo do peso";
+  classificacao += "Magreza";
 } else if (imc < 25.0) {
   classificacao += "Peso ideal";
 } else if (imc < 30.0) {
-  classificacao += "Levemente acima do peso";
+  classificacao += "Sobrepeso";
 } else if (imc < 35.0) {
   classificacao += "Obesidade Grau I";
 } else if (imc < 40.0) {
