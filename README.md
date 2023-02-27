@@ -1,6 +1,6 @@
 # iOS Development
 ### :books: Learning Swift...
-### Swift | iOS | Apple | Mobile | Xcode
+### Swift | iOS | Apple | Xcode
 <br>
 
  <p align="left">
