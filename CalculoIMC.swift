@@ -2,7 +2,7 @@
 IMC = peso/altura² - Classificação
 ---------------------------------------  
 menor que 18,5 - Magreza
-de 18,5 a 24,9 - Peso normal
+de 18,5 a 24,9 - Peso ideal
 de 25,0 a 29,9 - Sobrepeso
 de 30,0 a 34,9 - Obesidade grau I
 de 35,0 a 40,0 - Obesidade grau II
