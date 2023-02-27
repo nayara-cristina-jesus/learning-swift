@@ -26,23 +26,8 @@ print("Hello, World!")
 ## Official documentation
 https://www.swift.org/documentation/
 
-## :globe_with_meridians: Used IDE 
-- `Replit` <br><br>
-https://replit.com/
-
-## :computer: Used code editor
-- `Notepad++`
-
-## :mag: Research source 
+### Research source 
 https://www.swift.org/ <br>
 https://www.apple.com/br/swift/ <br>
 https://en.wikipedia.org/ <br>
 https://pt.wikipedia.org/ 
-
-## :woman_technologist: About me
-Nayara Cristina Jesus <br>
-Computer Science Student <br>
-Data Engineer <br>
-Rio de Janeiro, Brazil <br>
-https://github.com/nayara-cristina-jesus <br>
-https://linkedin.com/in/nayara-cristina-jesus
